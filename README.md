@@ -1,2 +1,3 @@
 # staj3
-bootstrap çalışma 2
+## Bootstrap çalışması yaptım
+### Sayfa klonladım 
